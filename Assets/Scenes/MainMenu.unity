@@ -5140,7 +5140,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2ce337684739710458918487b254914d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 03ba265e89a381b4eb9b7ecc1864ba5e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5532,7 +5532,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Cursed Cementery
+  m_text: Dracule's Tomb
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ef1a1cedd8873c34c8604a32780465e0, type: 2}
   m_sharedMaterial: {fileID: 8376560934727436968, guid: ef1a1cedd8873c34c8604a32780465e0, type: 2}
@@ -7100,7 +7100,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Cursed Cementery
+  m_text: Dracule's Tomb
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ef1a1cedd8873c34c8604a32780465e0, type: 2}
   m_sharedMaterial: {fileID: 8376560934727436968, guid: ef1a1cedd8873c34c8604a32780465e0, type: 2}
