@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 777a8948f1140df4a996f56cee7abe47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicMixer: {fileID: 24100000, guid: cbaf54152faf2e144992fd64e7433361, type: 2}
+  - effectsMixer: {fileID: 24100000, guid: 7d25fd42c779ee2478f55c59422db547, type: 2}
+  - backgroundMusic: {instanceID: 0}
+  - hit: {instanceID: 0}
+  - enemyDead: {instanceID: 0}
+  - gems: {instanceID: 0}
+  - arrow: {instanceID: 0}
+  - masterSldr: {instanceID: 0}
+  - effectsSldr: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
